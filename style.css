@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: #002349;
+}
+
+
+.span-link, .website-name{
+    color: #957C3D;
+    font-weight: bold;
+}
+
+p{
+    color: #957C3D;
+}
+
+.name-text{
+    color: white;
+}
+
+.description-text{
+    color: grey;
+}
